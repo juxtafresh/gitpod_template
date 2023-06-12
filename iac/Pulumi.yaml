@@ -1,0 +1,6 @@
+name: automated-shorts
+runtime:
+  name: python
+  options:
+    virtualenv: ../.venv
+description: Automating digital shorts creation

@@ -1,0 +1,7 @@
+["niche_mappings"]
+
+niche_to_channel_name_dict = {
+    "anime_and_manga":Animevibz
+}
+
+#should use tasks in prefect to parralize the processing of each video
